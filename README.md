@@ -9,7 +9,7 @@ This web app can display the weather conditions of a city like:
 
 The user can select any city of his/her choice to know about the weather conditions there.
 
-Used OpenWeather API to fetch data about the weather. Website: openweathermap.org
+Used OpenWeather API to fetch data about the weather. Website: https://openweathermap.org/
 
 Used the city name parameter to fetch the information about the weather condition of the city.
 
