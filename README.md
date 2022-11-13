@@ -1,5 +1,6 @@
 # Weather-App
 Developed a Weather App using HTML, CSS and JavaScript. 
+
 This web app can display the weather conditions of a city like: 
 (i)Temperature
 (ii)Type of weather
