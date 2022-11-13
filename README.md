@@ -1,5 +1,6 @@
 # Weather-App
 Developed a Weather App using HTML, CSS and JavaScript. 
+
 Click on the link to get a quick preview of the web app: https://satyajeetghosh.github.io/Weather-App/
 
 This web app can display the weather conditions of a city like: 
