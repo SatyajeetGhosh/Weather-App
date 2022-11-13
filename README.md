@@ -9,7 +9,7 @@ This web app can display the weather conditions of a city like:
 (iii)Humidity
 (iv)Wind speed 
 
-The user can select any city of his/her choice to know about the weather conditions there.
+The user can select any city of his/her choice to know about the weather conditions there. The web app shows the weather conditions of Bengaluru by default.
 
 Used OpenWeather API to fetch data about the weather. Website: https://openweathermap.org/
 
