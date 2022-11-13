@@ -1,5 +1,5 @@
 # Weather-App
-Developed a Weather App using HTML, CSS and JavaScript. 
+Developed a Weather App using HTML, CSS and JavaScript. The web app is responsive and can viewed in devices with varying screen sizes without any difficulty. 
 
 Click on the link to get a quick preview of the web app: https://satyajeetghosh.github.io/Weather-App/
 
